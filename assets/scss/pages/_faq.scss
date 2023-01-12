@@ -1,0 +1,13 @@
+.accordion-item{
+    .accordion-button{
+        background-color: $like-black !important;
+        color: $primary-color !important;
+    }
+}
+
+.question{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    div{
+        line-height: 1.5;
+    }
+}
